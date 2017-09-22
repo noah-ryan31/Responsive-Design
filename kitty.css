@@ -8,6 +8,7 @@
 body {
 	background-image:url(images/123.jpg)
 }
+/* Malakhye helped me with the code */
 .kittyloaf { 
 	content:url(images/kittyloaf.gif);
 	
@@ -29,7 +30,7 @@ body {
   
 }
 @media screen and (min-width: 1000px){
-	
+	/* Malakhye helped me with the code */
 body {
 
      background-image:url(images/download.jpg);	
